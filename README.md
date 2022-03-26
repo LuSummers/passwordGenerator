@@ -11,6 +11,8 @@ Passwords can range from 8 to 128 characters. The user decides on uppercase or l
 
 ## Website
 https://lusummers.github.io/passwordGenerator/
+![image](https://user-images.githubusercontent.com/100633609/160260798-f2a15824-4b7a-4f5b-abb5-2d3189fb3748.png)
+
 
 
 
